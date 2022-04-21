@@ -1,4 +1,4 @@
-module github.com/fitv/go-i18n
+module github.com/brunofontes/go-i18n
 
 go 1.17
 
