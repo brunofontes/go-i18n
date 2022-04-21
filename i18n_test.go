@@ -4,7 +4,7 @@ import (
 	"embed"
 	"testing"
 
-	"github.com/fitv/go-i18n"
+	"github.com/brunofontes/go-i18n"
 	"github.com/stretchr/testify/assert"
 )
 
