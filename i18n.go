@@ -4,7 +4,7 @@ import (
 	"embed"
 	"strings"
 
-	"github.com/fitv/go-i18n/internal/translator"
+	"github.com/brunofontes/go-i18n/internal/translator"
 	"gopkg.in/yaml.v3"
 )
 
